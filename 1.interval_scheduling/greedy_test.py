@@ -59,7 +59,7 @@ for i in range(10):
         temp.append((start, finish))
     random_inputs.append(temp)
 
-print("Static tests:")
+print("Fixed tests:")
 print("-"*10)
 test(input1)
 test(input2)
